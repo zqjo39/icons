@@ -1,0 +1,34 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.big {
+  font-size: 50px;
+}
+
+.bullseye {
+  color: red;
+  background-color: white;
+}
+
+.eye-slash {
+  color: yellow;
+  font-size: 75px;
+}
+
+.arrows {
+  color: grey;
+  font-size: 25px;
+}
+
+.globe {
+  color: blue;
+  background-color: green;
+  font-size: 100px;
+  border-radius: 100px;
+}
